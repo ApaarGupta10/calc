@@ -6,7 +6,9 @@ public class calculation {
     int y=sc.nextInt();
     int sum = x + y;
     int mul=x*y;
+    int sub=a-b;
     System.out.println(sum);
     System.out.println(mul);
+    System.out.println(sub);
   }
-i}
+}
