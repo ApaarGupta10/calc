@@ -1,5 +1,5 @@
 import java.util.*;
-public class add {
+public class calculation {
   public static void main(String[] args) {
     scanner sc = new Scanner(System.in);
     int x=sc.nextInt();
